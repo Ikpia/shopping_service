@@ -1,0 +1,13 @@
+api_gateway/.env
+api_gateway/.env.dev
+api_gateway/node_modules
+customer/.env
+customer/.env.dev
+customer/node_modules
+products/.env
+products/node_modules
+products/.env.dev
+shopping/.env
+shopping/.env.dev
+shopping/node_modules
+node_modules
